@@ -12,4 +12,4 @@ Contains Minecraft.exe to run the modpack.
 
 How to install the mod?
 
-![ss](screenshot/1?.png)
+![ss](screenshot/1.png)
