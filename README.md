@@ -36,4 +36,4 @@ Click `install`
 
 ---
 
-Now you have VoidClient installed! Have fun
+Now you have VoidClient installed. Have fun!
