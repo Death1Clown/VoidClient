@@ -27,6 +27,8 @@ Create a `New Installation`
 
 Set the version to `release 1.21.4`
 
+Set the Game Dictonary to `?/VoidClient/instalation/Version/1.21.4`
+
 4.
 ![ss](screenshot/4.png)
 
