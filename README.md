@@ -1,4 +1,4 @@
-![logo](png/logos.png)
+![logo](https://github.com/Death1Clown/VoidClient/blob/master/png/logos.png)
 
 ---
 
@@ -13,24 +13,24 @@ Contains Minecraft.exe to run the modpack.
 How to install the modpack?
 
 1.
-![ss](screenshot/1.png)
+![ss](https://github.com/Death1Clown/VoidClient/blob/master/screenshot/1.png)
 
 Go to `Installations`
 
 2.
-![ss](screenshot/2.png)
+![ss](https://github.com/Death1Clown/VoidClient/blob/master/screenshot/2.png)
 
 Create a `New Installation`
 
 3.
-![ss](screenshot/3.png)
+![ss](https://github.com/Death1Clown/VoidClient/blob/master/screenshot/3.png)
 
 Set the version to `release 1.21.4`
 
 Set the Game Dictonary to `?/VoidClient/instalation/Version/1.21.4`
 
 4.
-![ss](screenshot/4.png)
+![ss](https://github.com/Death1Clown/VoidClient/blob/master/screenshot/4.png)
 
 Make sure `Launch after Install` is ticked/enabled.
 
